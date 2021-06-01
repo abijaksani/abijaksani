@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abijaksani
+- 👋 Hi, I’m Abhishek Jaksani
 - 👀 I’m interested in explorig new technologies which helps to enhance my skillsets.
 - 🌱 I’m currently learning Python for building data pipelines to extract and anylaze the data.
 - 💞️ I’m looking to collaborate on analyzing the data.
